@@ -11,7 +11,7 @@ github_repo: "https://github.com/hykeisme/hykeisme.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "大学教师  编剧，导演，剪辑师  电影狂热爱好者"
+sidebar-about-description: "大学教师<br/>编剧，导演，剪辑师<br/>电影爱好者"
 sidebar-avatar: /img/头像1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
